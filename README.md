@@ -4,7 +4,9 @@ ________________________________________________________________________________
 Report
 Customer Segmentation:
 Question: How many days have passed since the last order for each customer?
-Analysis: The table lists customers and the number of days since their last order. The results already seem calculated, showing the days since the last purchase for each customer code.
+
+Analysis:
+The table lists customers and the number of days since their last order. The results already seem calculated, showing the days since the last purchase for each customer code.
 Insights:
 1.	Most Recent Orders (Fewest Days Since Last Order):
 o	Customers with codes BOLID and MAISD have the shortest interval since their last order at 423 days.
@@ -16,6 +18,7 @@ o	Customers with intervals over 500 days might be classified as dormant and requ
 ________________________________________
 Question: What is the total amount spent by each customer?
 Insights:
+
 1.	Top Spenders:
 o	FISSA spent the highest amount at $45,485.11.
 o	Val2 follows closely with a total spend of $44,172.35.
@@ -27,12 +30,14 @@ o	SPECD spent $52.35.
 3.	Spending Distribution:
 o	A significant number of customers have spent between $500 and $2,000, which represents a middle-spending tier.
 o	Few customers (e.g., FISSA, Val2, and PARIS) contribute a disproportionately high spend, indicating a potential VIP customer segment.
-4.	Key Observations:
+
+5.	Key Observations:
 o	There’s a clear disparity between high-value and low-value customers.
 o	High-spending customers contribute significantly to total revenue, making them crucial for retention strategies.
 o	Customers spending less than $500 could be targeted with cross-selling or upselling strategies to increase their lifetime value.
 ________________________________________
 Question:   What is the number of orders per customer? How many total orders were made by the company?
+
 Summary of Data:
 1.	Total Orders:
 o	The company has processed 16,282 orders.
@@ -50,6 +55,7 @@ o	A significant proportion of customers fall within this range. These represent 
 o	Customers with orders in the lower range (~150 orders) include OCEAN (154), AROUT (156), and VINET (158). These could represent occasional buyers.
 ________________________________________
 Insights:
+
 1.	Top Customers Drive Volume:
 o	High-order customers like BSBEV, RICAR, and LILAS are critical for maintaining overall order volume. Combined, these customers contribute significantly to the total.
 2.	Broad Distribution:
@@ -58,7 +64,9 @@ o	The data reveals a fairly even spread between medium and high-order customers,
 o	The top 10 customers account for a disproportionate amount of total orders, highlighting their importance in the overall revenue strategy.
 ________________________________________
 Question: How can we segment customers based on RFM metrics to improve targeting and engagement?
+
 Customer Segmentation:
+
 Based on the data, the customers are segmented into three groups as follows:
 ________________________________________
 1. Champions
