@@ -2,7 +2,9 @@
 This project uses SQL to analyze the Northwind database, uncovering insights into customer behavior, product performance, order trends, and employee contributions. It includes RFM-based customer segmentation, sales trend analysis, and performance evaluation, supporting data-driven decision-making for business growth.
 ________________________________________________________________________________________________________________________________________________________________
 Report
+
 Customer Segmentation:
+
 Question: How many days have passed since the last order for each customer?
 
 Analysis:
